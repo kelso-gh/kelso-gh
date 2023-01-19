@@ -6,7 +6,7 @@
 
 - I have worked in the service industry for the last 20 years. My skills range from customer focused experiences <br>
 in front of house to managing staff behind the scenes.
-- I am a dedicated worker whose strengths lie in my ability to grasp new concepts quickly and and to communicate effectively <br>
+- I am a dedicated worker whose strengths lie in my ability to grasp new concepts quickly and to communicate effectively <br>
 especially while working in groups. 
 - My passion for web development is what drives me to continue to learn and hone my expertise in this field. Combined with <br>
 the skills I gained in the service industry, I believe I will be a great asset to the world of software development and <br> 
