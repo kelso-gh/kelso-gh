@@ -13,7 +13,7 @@ the skills I gained in the service industry, I believe I will be a great asset t
 look forward to the endless learning opportunities it provides.
 
 # Projects 
-[CoolStry](coolstry.herokuapp.com) <br>
+[CoolStry](https://coolstry.herokuapp.com) <br>
 
 - CoolStry is a MERN-stack social media application. It allows users to search for pictures via an image API <br>
 and save them to their own personal photo diary. 
@@ -22,7 +22,7 @@ and save them to their own personal photo diary.
 
 - The Event is a Python and PostgreSQL based web application. Users create and host events with people in their network. <br>
 
-[Bad Grapes Wine Club](bad-grapes.herokuapp.com)
+[Bad Grapes Wine Club](https://bad-grapes.herokuapp.com)
 
 - Full-stack CRUD application made using MongoDB, Express.js, Node.js that is deployed on Heroku. Using OAuth via <br>
 Google, the user can log in a create/review wine bundles. 
