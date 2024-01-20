@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## My name is Kelly and I'm a full stack web developer from Austin, TX.  If you'd like to know more about my background, read below!
+## My name is Kelly and I'm a full stack web developer from Los Angeles, CA.  If you'd like to know more about my background, read below!
 
 - I have worked in the service industry for the last 20 years. My skills range from customer focused experiences <br>
 in front of house to managing staff behind the scenes.
