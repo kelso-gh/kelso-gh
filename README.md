@@ -4,13 +4,9 @@
 
 ## My name is Kelly and I'm a full stack web developer from Los Angeles, CA.  If you'd like to know more about my background, read below!
 
-- I have worked in the service industry for the last 20 years. My skills range from customer focused experiences <br>
-in front of house to managing staff behind the scenes.
-- I am a dedicated worker whose strengths lie in my ability to grasp new concepts quickly and to communicate effectively <br>
-especially while working in groups. 
-- My passion for learning is what drives me to continue to hone my expertise in this field. Combined with <br>
-the skills I gained in the service industry, I believe I will be a great asset to the world of software development and <br> 
-look forward to the endless learning opportunities it provides.
+As a new software engineer, I am driven by a deep passion for problem-solving, a commitment to continuous learning, and a strong desire to contribute to innovative solutions. I thrive on the challenge of tackling complex technical problems and enjoy the process of breaking them down into manageable pieces.
+
+I’m particularly excited to work in dynamic, team-oriented environments where diverse perspectives are valued, and where I can contribute not only my technical skills but also my enthusiasm for team success. I am driven, curious and eager to continue my growth in the development world.
 
 # Projects 
 [CoolStry](https://coolstry.herokuapp.com) <br>
